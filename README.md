@@ -1,5 +1,5 @@
 # Kubernetes
-Learning and Advance Stuff related to Kubernetes with every comment and Readme 
+Learning Basic and Advance Stuff related to Kubernetes with every comment and Readme 
 
 ### Mac OS
 ```sh
