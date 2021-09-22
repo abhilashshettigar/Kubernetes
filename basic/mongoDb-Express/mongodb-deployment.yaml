@@ -28,7 +28,7 @@ spec:
                 secretKeyRef:
                   name: mongo-secret
                   key: mongodbPass
----
+---                                                #Used to for separating two yaml files as service is created with deployment it is a standard practice
 kind: Service
 apiVersion: v1
 metadata:
