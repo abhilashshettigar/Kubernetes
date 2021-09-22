@@ -27,7 +27,6 @@ minikube
 #### Generic Commands
 | Commands                                                  | Description                                           |
 | --------------------------------------------------------- | ----------------------------------------------------- |
-
 | minikube status                                            |  shows details related to minikube                      |                           
 | kubectl version                                            |  shows details regarding server and client version      |                    
 | kubectl get nodes                                          | shows how many nodes are there                          |
